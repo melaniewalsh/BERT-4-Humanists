@@ -3,6 +3,7 @@
 
 # General
 .DS_Store
+scraps/
 
 # Environments
 .env
